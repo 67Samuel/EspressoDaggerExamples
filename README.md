@@ -1,3 +1,5 @@
+Based on [Mitch Tabian](https://github.com/mitchtabian)'s course
+
 <a href='https://codingwithmitch.com/courses/ui-testing-jetpack-androidx/' target='_blank'><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/ui-testing-jetpack-androidx/images/EspressoDaggerExamples_course_thumbnail.png' /></a>
 # <a href="https://codingwithmitch.com/courses/ui-testing-jetpack-androidx/">Advanced UI testing with Espresso</a>
 
